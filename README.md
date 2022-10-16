@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning other Android frameworks such as React Native and Swift for iOS developement.
 - 📫 How to reach me: Please contact me on through email at hamidisilver@gmail.com.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am orignally from Yorkshire, Leeds!
+- ⚡ Fun fact: I spent most of my childhood growing up in Singapore! 🇸🇬
